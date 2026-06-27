@@ -33,3 +33,8 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `11-cancellation-penalties-and-refunds.md` - public cancellation penalty model and refund behavior
 - `12-financial-capabilities.md` - public financial feature inventory and conceptual entities
 - `13-payments-open-questions.md` - payment-related evidence gaps and follow-up questions
+- `14-customer-relationship-overview.md` - public customer relationship surfaces, concepts, and lifecycle
+- `15-client-profile-and-history.md` - client identity, visible profile attributes, and history behavior
+- `16-communication-and-chat.md` - public communication channels, chat behavior, and notification patterns
+- `17-engagement-coupons-and-match-organization.md` - engagement features, coupons, retention concepts, and match organization
+- `18-crm-open-questions.md` - CRM-related evidence gaps and open questions
