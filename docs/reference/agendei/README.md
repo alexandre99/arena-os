@@ -28,3 +28,8 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `06-scheduling-capabilities.md` - public scheduling capability inventory and classification
 - `07-scheduling-entities.md` - conceptual scheduling entities and their relationships
 - `08-scheduling-open-questions.md` - public evidence gaps and follow-up questions
+- `09-payments-overview.md` - public payment surfaces, methods, and booking confirmation impact
+- `10-agendei-pay.md` - Agendei Pay positioning, digital account, PIX/card behavior, and repasses
+- `11-cancellation-penalties-and-refunds.md` - public cancellation penalty model and refund behavior
+- `12-financial-capabilities.md` - public financial feature inventory and conceptual entities
+- `13-payments-open-questions.md` - payment-related evidence gaps and follow-up questions
