@@ -24,3 +24,7 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `02-personas.md` - visible personas, inferred permissions, and confidence levels
 - `03-modules.md` - visible modules and their public responsibilities
 - `04-navigation.md` - public navigation structure and observed user journeys
+- `05-booking-lifecycle.md` - player and facility booking lifecycle, confirmation paths, and cancellation behavior
+- `06-scheduling-capabilities.md` - public scheduling capability inventory and classification
+- `07-scheduling-entities.md` - conceptual scheduling entities and their relationships
+- `08-scheduling-open-questions.md` - public evidence gaps and follow-up questions
