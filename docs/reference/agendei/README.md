@@ -38,3 +38,8 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `16-communication-and-chat.md` - public communication channels, chat behavior, and notification patterns
 - `17-engagement-coupons-and-match-organization.md` - engagement features, coupons, retention concepts, and match organization
 - `18-crm-open-questions.md` - CRM-related evidence gaps and open questions
+- `19-manager-operations-overview.md` - manager-side operating model, responsibilities, and lifecycle
+- `20-facility-onboarding-and-configuration.md` - onboarding, visibility, court configuration, and Agendei Pay setup
+- `21-shared-management-and-permissions.md` - public role model, shared access, and permission areas
+- `22-plans-tiers-and-feature-packaging.md` - public plans, tier packaging, and feature visibility
+- `23-manager-operations-open-questions.md` - manager-operations evidence gaps and follow-up questions
