@@ -48,3 +48,9 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `26-payment-business-rules.md` - payment, Agendei Pay, settlement, refunds, coupons, and financial behavior
 - `27-operations-business-rules.md` - onboarding, permissions, shared management, and plan-tier rules
 - `28-business-rules-open-questions.md` - consolidated rule-level uncertainties and prioritized follow-up questions
+- `29-user-journeys-overview.md` - consolidated journey inventory, dependencies, and source map
+- `30-player-booking-journeys.md` - player-side booking journeys
+- `31-manager-operations-journeys.md` - manager-side operations journeys
+- `32-payment-and-cancellation-journeys.md` - payment, settlement, repass, refund, and cancellation journeys
+- `33-engagement-and-crm-journeys.md` - engagement, communication, and CRM journeys
+- `34-user-journeys-open-questions.md` - consolidated journey uncertainties and prioritized investigation list
