@@ -60,3 +60,10 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `38-crm-engagement-domain-model.md` - CRM and engagement domain entities, relationships, and unknowns
 - `39-operations-permissions-domain-model.md` - operations and permissions domain entities, relationships, and unknowns
 - `40-domain-model-open-questions.md` - consolidated domain-model uncertainties and prioritized investigation list
+- `41-state-machines-overview.md` - consolidated conceptual lifecycle inventory, dependencies, and scope boundaries
+- `42-booking-state-machine.md` - conceptual booking lifecycle
+- `43-payment-state-machine.md` - conceptual payment, settlement, and local-payment lifecycles
+- `44-cancellation-refund-state-machine.md` - conceptual cancellation, penalty, and refund lifecycle
+- `45-day-use-state-machine.md` - conceptual day-use product and purchase lifecycle
+- `46-operations-access-state-machine.md` - conceptual facility visibility and shared-access lifecycles
+- `47-state-machines-open-questions.md` - consolidated state-machine uncertainties and prioritized investigation list
