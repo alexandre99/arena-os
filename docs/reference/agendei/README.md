@@ -43,3 +43,8 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `21-shared-management-and-permissions.md` - public role model, shared access, and permission areas
 - `22-plans-tiers-and-feature-packaging.md` - public plans, tier packaging, and feature visibility
 - `23-manager-operations-open-questions.md` - manager-operations evidence gaps and follow-up questions
+- `24-business-rules-overview.md` - consolidated business-rules index, scope, dependencies, and confidence summary
+- `25-booking-business-rules.md` - booking, scheduling, day use, and cancellation rules
+- `26-payment-business-rules.md` - payment, Agendei Pay, settlement, refunds, coupons, and financial behavior
+- `27-operations-business-rules.md` - onboarding, permissions, shared management, and plan-tier rules
+- `28-business-rules-open-questions.md` - consolidated rule-level uncertainties and prioritized follow-up questions
