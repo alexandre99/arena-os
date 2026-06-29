@@ -54,3 +54,9 @@ It captures only what is visible on public pages and avoids authentication, priv
 - `32-payment-and-cancellation-journeys.md` - payment, settlement, repass, refund, and cancellation journeys
 - `33-engagement-and-crm-journeys.md` - engagement, communication, and CRM journeys
 - `34-user-journeys-open-questions.md` - consolidated journey uncertainties and prioritized investigation list
+- `35-domain-model-overview.md` - consolidated conceptual domain model overview
+- `36-scheduling-domain-model.md` - scheduling domain entities, relationships, and unknowns
+- `37-billing-domain-model.md` - billing and payment domain entities, relationships, and unknowns
+- `38-crm-engagement-domain-model.md` - CRM and engagement domain entities, relationships, and unknowns
+- `39-operations-permissions-domain-model.md` - operations and permissions domain entities, relationships, and unknowns
+- `40-domain-model-open-questions.md` - consolidated domain-model uncertainties and prioritized investigation list
