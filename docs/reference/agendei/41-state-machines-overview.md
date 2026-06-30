@@ -23,7 +23,7 @@ It is a reference-product conceptual lifecycle model.
 - `37-billing-domain-model.md`
 - `38-crm-engagement-domain-model.md`
 - `39-operations-permissions-domain-model.md`
-- Earlier source docs used directly in the reference set: `05-booking-lifecycle.md`, `09-payments-overview.md`, `10-agendei-pay.md`, `11-cancellation-penalties-and-refunds.md`, `20-facility-onboarding-and-configuration.md`, `21-shared-management-and-permissions.md`
+- Earlier source docs used directly in the reference set: `01-product-overview.md`, `02-personas.md`, `03-modules.md`, `04-navigation.md`, `05-booking-lifecycle.md`, `09-payments-overview.md`, `10-agendei-pay.md`, `11-cancellation-penalties-and-refunds.md`, `12-financial-capabilities.md`, `16-communication-and-chat.md`, `17-engagement-coupons-and-match-organization.md`, `19-manager-operations-overview.md`, `20-facility-onboarding-and-configuration.md`, `21-shared-management-and-permissions.md`, `22-plans-tiers-and-feature-packaging.md`
 
 ## State Machine Inventory
 
