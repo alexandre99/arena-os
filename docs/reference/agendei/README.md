@@ -20,6 +20,7 @@ It captures only what is visible on public pages and avoids authentication, priv
 - [Copa Agendei Quadras | Promoção](https://www.agendeiquadras.com.br/planos.html)
 
 ## Documentation Structure
+- `REFERENCE-SUMMARY.md` - executive summary and single entry point for the reference set
 - `01-product-overview.md` - product purpose, audience, positioning, operating goals, and visible applications
 - `02-personas.md` - visible personas, inferred permissions, and confidence levels
 - `03-modules.md` - visible modules and their public responsibilities
